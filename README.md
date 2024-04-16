@@ -4,7 +4,7 @@
 
 <h3>about me:</h3>
 
-🌱 I’m currently learning react and tailwindcss  <br>
+🌱 I’m currently learning react and Kotlin  <br>
 
 <br>
 
