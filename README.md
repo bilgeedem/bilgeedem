@@ -4,7 +4,7 @@
 
 <h3>about me:</h3>
 
-🌱<br>
+🌱currently learning: unity<br>
 
 <br>
 
