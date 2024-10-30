@@ -4,6 +4,7 @@
 
 <h3>about me:</h3>
 
+👩🏻‍🎓Media Computer Science
 🌱currently learning: unity<br>
 
 <br>
